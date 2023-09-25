@@ -1,13 +1,11 @@
 ### Hi there 👋
-### This Anup Jaiswal , Welcome To My GitHub Profile
+### This is Anup Jaiswal , Welcome To My GitHub Profile
 
 ### I am a coding enthusiast doing B.TECH in EE , Web Developer | eSports Player | Technical Writer
 - Currently In Madan Mohan Malaviya University Of Technology , Gorakhpur U.P. India
-
-- Open for collaborations , It will be 
-
+ 
 - 🌱 Still in Learning Phase ...
-- 👯 I’m looking to collaborate on in Open Source , Feel Free to Asign me any Issue !!
+- 👯 I’m looking to collaborate & Contribute via Open Source , Feel Free to Assign me any Issue !!
 - 🔭 I’m currently working on MERN STACK
 
 <!--
