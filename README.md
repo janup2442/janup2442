@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### This is Anup Jaiswal , Welcome To My GitHub Profile
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 [![An image of @janup2442's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janup2442)](https://holopin.io/@janup2442)
 
 ### I am a coding enthusiast doing B.TECH in EE , Web Developer | eSports Player | Technical Writer
