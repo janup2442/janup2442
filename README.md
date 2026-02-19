@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Anup Jaiswal , Welcome To My GitHub Profile
+### Welcome To My GitHub Profile
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -7,12 +7,12 @@
 
 [![An image of @janup2442's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janup2442)](https://holopin.io/@janup2442)
 
-### I am a coding enthusiast doing B.TECH in EE , Web Developer | eSports Player | Technical Writer
-- Currently In Madan Mohan Malaviya University Of Technology , Gorakhpur U.P. India
- 
-- 🌱 Still in Learning Phase ...
-- 👯 I’m looking to collaborate & Contribute via Open Source , Feel Free to Assign me any Issue !!
-- 🔭 I’m currently working on MERN STACK
+### Full Stack Developer & IoT Engineer
+- B.Tech Electrical and Electronics Engineering and Associate Minor Degree in Computer Science
+- Madan Mohan Malaviya University Of Technology , Gorakhpur U.P. (273010) India
+- Interested in Robtoics, AI/ML and Software Engineering
+
+- Open for opportunities, feel free to assign me an issue. Excited to collaborate and contribute.
 
 <!--
 **janup2442/janup2442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ### 🛠️: Language Used:
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
